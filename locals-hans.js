@@ -1,4 +1,4 @@
-var I18N = {};
+﻿var I18N = {};
 
 I18N.conf = {
 
@@ -612,7 +612,7 @@ I18N.zh = {
             "Work items follow the backlog order when changing columns.": "更改列时，工单按照待办清单中的顺序排序。",
             "Work items reorder when changing columns, and the backlog reflects the new order.": "更改工单所处的列时将重新排序，并将最新的排序同步到待办清单中。",
             "Work started": "开始工作",
-	    "Project stats": "项目统计信息",
+            "Project stats": "项目统计信息",
 
             // X
 
