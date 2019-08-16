@@ -20,7 +20,7 @@ I18N.zh = {
     "__common": {
         "static": {
             "@Me": "@我",
-
+            "Test Plans": "测试计划",
             "1 Day": "1 天",
             "7 Days": "7 天",
             "30 Days": "30 天",
